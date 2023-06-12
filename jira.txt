@@ -1,0 +1,2 @@
+Hello
+this file is created to test rest assured code for file attachment

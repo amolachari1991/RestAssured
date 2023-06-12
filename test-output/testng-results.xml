@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="4" passed="4" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-10-26T14:19:10 IST" name="Default suite" finished-at="2022-10-26T14:19:15 IST" duration-ms="4737">
+    <groups>
+    </groups>
+    <test started-at="2022-10-26T14:19:10 IST" name="Default test" finished-at="2022-10-26T14:19:15 IST" duration-ms="4737">
+      <class name="libraryAPI.AddBook">
+        <test-method signature="addBook(java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:libraryAPI.AddBook@3d51f06e]" started-at="2022-10-26T14:19:10 IST" name="addBook" data-provider="bookData" finished-at="2022-10-26T14:19:13 IST" duration-ms="2687" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[A]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[scvbn]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[456214]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[j k]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addBook -->
+        <test-method signature="addBook(java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:libraryAPI.AddBook@3d51f06e]" started-at="2022-10-26T14:19:13 IST" name="addBook" data-provider="bookData" finished-at="2022-10-26T14:19:13 IST" duration-ms="774" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[B]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[bvhi]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[563564]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[l k]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addBook -->
+        <test-method signature="addBook(java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:libraryAPI.AddBook@3d51f06e]" started-at="2022-10-26T14:19:13 IST" name="addBook" data-provider="bookData" finished-at="2022-10-26T14:19:14 IST" duration-ms="608" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[C]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[uiuygui]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[168946]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[p k]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addBook -->
+        <test-method signature="addBook(java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:libraryAPI.AddBook@3d51f06e]" started-at="2022-10-26T14:19:14 IST" name="addBook" data-provider="bookData" finished-at="2022-10-26T14:19:15 IST" duration-ms="612" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[D]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[ioiuouibv]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[56326]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[a k]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addBook -->
+      </class> <!-- libraryAPI.AddBook -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
